@@ -30,18 +30,6 @@ Works perfectly even when many common tools (`ifconfig`, `iwconfig`, `ethtool`, 
 
 ![demo](https://i.ibb.co.com/9h0n0v0/netinfo-demo.png)
 
-## Quick Start
-
-```bash
-# One-liner (recommended)
-curl -sSL https://raw.githubusercontent.com/moteus/NetInfo-Extractor/main/net_info.sh | bash
-
-# Or download and run manually
-wget https://raw.githubusercontent.com/moteus/NetInfo-Extractor/main/net_info.sh
-chmod +x net_info.sh
-./net_info.sh
-```
-
 ## Permanent Installation (optional)
 
 ```bash
