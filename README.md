@@ -28,7 +28,6 @@ Works perfectly even when many common tools (`ifconfig`, `iwconfig`, `ethtool`, 
 
 ## Screenshot
 
-![demo](https://i.ibb.co.com/9h0n0v0/netinfo-demo.png)
 
 ## Permanent Installation (optional)
 
